@@ -1,0 +1,8 @@
+{
+  "name": "IIV Andijon Akademik Litseyi — Ta'lim Platformasi",
+  "description": "IIV Andijon akademik litseyi o'quvchilari uchun sifatli videodarslar, dars testlari, xatolar tahlili, 50 coinlik sertifikatlar va admin monitoring tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
